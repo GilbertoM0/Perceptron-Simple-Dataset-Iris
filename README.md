@@ -1,55 +1,19 @@
 # DOCUMENTACIÓN
-![image](https://github.com/user-attachments/assets/f81ad245-d69f-4634-8e38-39c84682d528)
+![image](https://github.com/user-attachments/assets/7422ceef-5e81-499e-a29f-8338a167710d)
+
 > [!NOTE]
-> Aqui en este repositorio se encuentra la tarea del analisis de Netflix.
+> Aqui en este repositorio se encuentra la tarea del entrenamiento del perceptrón
 
 > [!Important]
-> Cualquier duda, pregunta o comentario sobre este notebook, contactarme.
+> ¡Es necesario cargar el archivo perceptron_simple_and.py porque le cambie la extension y quite los datos inecesarios para usarlo como modulo de solo la clase Perceptron.!
 
-# Análisis de Dataset de Netflix
-Este repositorio contiene un análisis detallado del dataset de Netflix, que incluye información sobre películas y series disponibles en la plataforma. El objetivo del proyecto es explorar y visualizar los datos para obtener insights sobre el contenido de Netflix.
+# Entrenamiento del perceptrón
+Este repositorio contiene el entrenamiento del perceptrón para la prediccion entre la IRIS-SETOSA  Y LA IRIS-VERSICOLOR
 
 ## Descripción del Dataset
 El dataset contiene las siguientes columnas:
+![image](https://github.com/user-attachments/assets/4d790713-d7fc-46cb-9576-764f795143b0)
 
-- `show_id`: Identificador único del contenido.
-
-- `type`: Tipo de contenido (Movie o TV Show).
-
-- `title`: Título del contenido.
-
-- `director`: Director del contenido.
-
-- `cast`: Actores principales.
-
-- `country`: País de producción.
-
-- `date_added`: Fecha en que el contenido fue añadido a Netflix.
-
-- `release_year`: Año de lanzamiento del contenido.
-
-- `rating`: Clasificación por edad.
-
-- `duration`: Duración (en minutos para películas o temporadas para series).
-
-- `listed_in`: Géneros o categorías del contenido.
-
-- `description`: Descripción del contenido.
-
-
-
-## Objetivos del Proyecto
-- Explorar la distribución de películas y series en el catálogo de Netflix.
-
-- Analizar los géneros más populares y su relación con el tipo de contenido.
-
-- Identificar los países que producen más contenido.
-
-- Estudiar las tendencias temporales de contenido añadido a Netflix.
-
-- Explorar la duración de películas y series.
-
-- Analizar la clasificación por edad del contenido.
 
 ## Herramientas Utilizadas
 - Python: Lenguaje de programación principal.
@@ -66,7 +30,7 @@ Clona este repositorio:
 
 `bash`
 ```python
-git clone https://github.com/GilbertoM0/Limpieza-de-datos-Netflix.git
+git clone https://github.com/GilbertoM0/Perceptron-Simple-Dataset-Iris.git
 ```
 ## Instala las dependencias:
 
@@ -78,35 +42,13 @@ pip install -r requirements.txt
 ## Abre el Jupyter Notebook:
 `bash`
 ```python
-jupyter notebook notebooks/netflix_analysis.ipynb
+jupyter notebook Perceptron-Simple-Dataset-Iris.ipynb
 ```
 
-## 1. Importación y Exploración Inicial
-Cargar el dataset.
 
-Explorar las primeras filas y obtener información general.
-
-## 2. Limpieza y Preparación de Datos
-Estandarizar texto (minúsculas, eliminar espacios).
-
-Manejar valores vacios -> Desconocido.
-
-
-## 3. Análisis de Datos
-Distribución de películas y series.
-
-Géneros más comunes.
-
-Países que producen más contenido.
-
-Tendencias temporales de contenido añadido.
-
-Duración de películas y series.
-
-Clasificación por edad del contenido.
-
-## 4. Visualización de Datos
-Gráficos de barras y bigotes.
+##  Visualización de Datos
+Gráficos de scatter.
 Ej:
 
-![image](https://github.com/user-attachments/assets/de895bb6-c977-4e59-a400-f46e70fac865)
+![image](https://github.com/user-attachments/assets/6d8ba603-4e21-4d91-a112-958ba89df7d1)
+
