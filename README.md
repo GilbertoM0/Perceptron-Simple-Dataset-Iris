@@ -1,11 +1,12 @@
 # DOCUMENTACIÓN
+> [!Important]
+> ¡Es necesario cargar el archivo perceptron_simple_and.py porque le cambie la extension y quite los datos inecesarios para usarlo como modulo de solo la clase Perceptron.!
+
 ![image](https://github.com/user-attachments/assets/7422ceef-5e81-499e-a29f-8338a167710d)
 
 > [!NOTE]
 > Aqui en este repositorio se encuentra la tarea del entrenamiento del perceptrón
 
-> [!Important]
-> ¡Es necesario cargar el archivo perceptron_simple_and.py porque le cambie la extension y quite los datos inecesarios para usarlo como modulo de solo la clase Perceptron.!
 
 # Entrenamiento del perceptrón
 Este repositorio contiene el entrenamiento del perceptrón para la prediccion entre la IRIS-SETOSA  Y LA IRIS-VERSICOLOR
