@@ -53,3 +53,6 @@ Ej:
 
 ![image](https://github.com/user-attachments/assets/6d8ba603-4e21-4d91-a112-958ba89df7d1)
 
+## Predicciónes
+![image](https://github.com/user-attachments/assets/c81a9f05-0166-4bd9-8961-1d9faa89d969)
+
